@@ -1,6 +1,5 @@
-# Memora
-Memora — Μνήμη, με μέλλον. Digital Heirloom Capsule για αναμνήσεις, ταξίδια και οικογενειακή κληρονομιά.
 # Memora — Μνήμη, με μέλλον.
+Digital Heirloom Capsule για αναμνήσεις, ταξίδια και οικογενειακή κληρονομιά.
 
 Το **Memora** είναι μια πλατφόρμα “Digital Heirloom Capsule”: αποθηκεύεις αναμνήσεις (φωτογραφίες, βίντεο, κείμενα, φωνή, ιστορίες) και μπορείς να τις παραδώσεις σε ανθρώπους του μέλλοντος — με κανόνες χρόνου, πρόσβασης και ιδιωτικότητας.
 
@@ -30,10 +29,10 @@ Memora — Μνήμη, με μέλλον. Digital Heirloom Capsule για ανα
 👉 https://github.com/parklifeapp01-cmyk/memora
 
 ## Κατάσταση έργου
-🚧 Under development — σύντομα demo και screenshots.
+🚧 Ολοκληρωμένο
 
 ## Επικοινωνία
-(βάλε email ή link φόρμας)
+skotsigiannis@gmail.com
 
 ---
 © Memora. All rights reserved.
