@@ -35,4 +35,7 @@ Digital Heirloom Capsule για αναμνήσεις, ταξίδια και οι
 skotsigiannis@gmail.com
 
 ---
-© Memora. All rights reserved.
+Copyright (c) 2026 Memora
+All rights reserved.
+
+This repository is not licensed for redistribution or use without explicit permission.
