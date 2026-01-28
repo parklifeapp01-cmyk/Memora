@@ -243,4 +243,4 @@ For privacy-related matters:
 ---
 
 **Memora — Μνήμη, με μέλλον.**
-**Memora — Memory with a future.**
+**Memora — Memory, with a future.**
