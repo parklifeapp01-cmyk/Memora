@@ -18,18 +18,11 @@ Digital Heirloom Capsule για αναμνήσεις, ταξίδια και οι
 - Time-lock / scheduled reveal
 - Εξαγωγή (PDF/ZIP) για “αποτύπωση” αναμνήσεων
 
-## Tech stack (στόχος)
-- Frontend: Next.js (React)
-- Backend: Node.js (API)
-- CMS: Strapi (headless)
-- Media: S3 ή Cloudinary
-- Hosting: Vercel (frontend), Render (backend)
-
 ## Repository
 👉 https://github.com/parklifeapp01-cmyk/memora
 
 ## Κατάσταση έργου
-🚧 Ολοκληρωμένο
+✅ Ολοκληρωμένο
 
 ## Επικοινωνία
 skotsigiannis@gmail.com
